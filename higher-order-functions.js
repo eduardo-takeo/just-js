@@ -1,7 +1,6 @@
 // Higher Order functions
 
 //Functions that operate on other functions, either by taking them as arguments or by returning them
-//, are called higher-order functions.
 
 function sumTwoNumbers(a, b) {
   return a + b;
