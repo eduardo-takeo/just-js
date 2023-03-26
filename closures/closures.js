@@ -16,4 +16,5 @@ const myNewFunction = outer();
 myNewFunction();
 myNewFunction();
 
-console.log(myNewFunction);
+// References:
+// https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
