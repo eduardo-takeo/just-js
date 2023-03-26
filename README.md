@@ -1,3 +1,8 @@
-# Advanced Javascript
+# Javascript: The Hard Parts
 
-Repository created to document advanced javascript studies
+Advanced Javascript concepts explained and exercises
+
+- Arrow functions
+- Callback functions
+- Closures
+- Higher Order functions
