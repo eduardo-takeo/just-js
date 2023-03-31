@@ -4,7 +4,6 @@
 Javascript fundamentals
 
 
----
 
 ## The Hard Parts
 Advanced Javascript concepts explained and exercises
